@@ -1,0 +1,19 @@
+{
+  "name": "blogstyles",
+  "version": "0.0.1",
+  "homepage": "https://github.com/code-mancers/blogstyles.git",
+  "authors": [
+    "Emil Soman <emil.soman@gmail.com>"
+  ],
+  "description": "Common styles which are shared across Codemancers blog and site",
+  "main": ["css/sample.css"],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
